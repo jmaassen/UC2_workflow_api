@@ -15,7 +15,7 @@ djangorestframework = "*"
 #lgppp-lofar-pipeline = {ref = "master",git = "https://github.com/EOSC-LOFAR/LGPPP_LOFAR_pipeline.git"}
 jsonfield = "*"
 #prefactor-lofar-pipeline = {ref = "master", git = "https://github.com/souley/PROCESS-UC2.git"}
-uc2-lofar-pipeline = {ref = "master", git = "https://github.com/process-project/UC2_pipeline.git"}
+uc2-lofar-pipeline = {ref = "master", git = "https://github.com/jmaassen/UC2_pipeline.git"}
 lofar-iee-pipeline = {ref = "master", git = "https://github.com/process-project/LOFAR_IEE_pipeline.git"}
 requests = "*"
 django-fontawesome-5 = "*"
